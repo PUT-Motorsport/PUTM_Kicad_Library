@@ -1,0 +1,110 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M80-5100622
+D 6 Male DIL Vertical Throughboard Conn. Jackscrews, 2.00mm Pitch High-Reliability Connector - Datamate J-Tek
+K
+F https://cdn.harwin.com/pdfs/M80-510.pdf
+$ENDCMP
+#
+$CMP M80-5102022
+D Datamate J-Tek DIL Male Vertical 3mm Throughboard Connector, selective gold + tin/lead, with jackscrews + board mount, 10+10 contacts
+K
+F https://cdn.harwin.com/pdfs/M80-510.pdf
+$ENDCMP
+#
+$CMP M80-5101422
+D Datamate J-Tek DIL Male Vertical 3mm Throughboard Connector, selective gold + tin/lead, with jackscrews + board mount, 7+7 contacts
+K
+F https://cdn.harwin.com/pdfs/M80-510.pdf
+$ENDCMP
+#
+$CMP 2920L500_24SLDR
+D PTC 24V POLYFUSE SMD 2920 SL 5.00A / TR
+K
+F https://www.mouser.fr/datasheet/2/240/littelfuse_ptc_low_rho_datasheet_pdf-1901322.pdf
+$ENDCMP
+#
+$CMP M80-5100442
+D 4 Male DIL Vertical Throughboard Conn. Jackscrews, 2.00mm Pitch High-Reliability Connector - Datamate J-Tek
+K
+F https://cdn.harwin.com/pdfs/M80-510.pdf
+$ENDCMP
+#
+$CMP UCC12040DVE
+D Isolated DC/DC Converters 500mW, high efficiency 3kVrms isolated DC-DC converter 16-SO-MOD -40 to 125
+K
+F https://www.ti.com/lit/gpn/UCC12040
+$ENDCMP
+#
+$CMP M300-MV30645M1
+D Headers & Wire Housings M300, 3MM, 6P 2R, ML VRT HDR PCTL W/JSCRW
+K
+F https://cdn.harwin.com/pdfs/M300-MV30645M1.pdf
+$ENDCMP
+#
+$CMP USB4145-03-0070-C
+D USB Connectors USB-C Rec 3u" Vert 16P SMT 0.7mm TH stakes H7.46mm T+R+Cap
+K
+F https://gct.co/files/drawings/usb4145.pdf
+$ENDCMP
+#
+$CMP M80-5102442
+D Datamate J-Tek DIL Male Vertical 3mm Throughboard Connector, selective gold + tin, with jackscrews + board mount, 12+12 contacts
+K
+F https://cdn.harwin.com/pdfs/M80-510.pdf
+$ENDCMP
+#
+$CMP M80-5102222
+D Datamate J-Tek DIL Male Vertical 3mm Throughboard Connector, selective gold + tin/lead, with jackscrews + board mount, 11+11 contacts
+K
+F https://cdn.harwin.com/pdfs/M80-510.pdf
+$ENDCMP
+#
+$CMP 1447360-8
+D EMI Gaskets, Sheets, Absorbers & Shielding 1.2mm SPRING FINGER
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1447009-6&DocType=Customer+Drawing&DocLang=English
+$ENDCMP
+#
+$CMP M80-5103422
+D 34 Male DIL Vertical Throughboard Conn. Jackscrews, 2.00mm Pitch High-Reliability Connector - Datamate J-Tek
+K
+F https://cdn.harwin.com/pdfs/M80-510.pdf
+$ENDCMP
+#
+$CMP LTC6804HG-1#PBF
+D Battery Monitoring Automotive 48-Pin SSOP
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/680412fc.pdf
+$ENDCMP
+#
+$CMP CKC33C472JJGACAUTO
+D KC-LINK Auto C0G, Ceramic, 4700 pF, 5%, 1700 VDC, 2040 VDC, 150C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, High Voltage, Automotive Grade, 0.1 % , 100 GOhms, 18 mg, 3640, 9.3mm, 10.2mm, 1.4mm, 1.27mm, 250, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1039_KC-LINK_C0G.pdf
+$ENDCMP
+#
+$CMP C2824C562JGGACAUTO
+D SMD Auto C0G HV, Ceramic, 5600 pF, 5%, 2000 VDC, 2400 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, High Voltage, Automotive Grade, 0.1 % , 100 GOhms, 540 mg, 2824, 7.1mm, 6.1mm, 2.5mm, 1.27mm, 300, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1080_C0G_HV_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP ISO6763FDWR
+D Digital Isolators General-purpose six-channel reinforced digital isolator with robust EMC
+K
+F https://www.ti.com/lit/ds/symlink/iso6763.pdf?ts=1676257834281&ref_url=https%253A%252F%252Fwww.google.com%252F
+$ENDCMP
+#
+$CMP CDMM20M0F2500DET
+D Resistor Networks & Arrays 20Mohms 1% 250:1 ratio 0.5%
+K
+F https://www.vishay.com/docs/68041/cdmm.pdf
+$ENDCMP
+#
+$CMP M300-MV10345M1
+D M300 - 3mm Pitch - SIL Male Throughboard Connector, with Jackscrews, 3 contacts
+K
+F https://cdn.harwin.com/pdfs/M300-MV10345M1.pdf
+$ENDCMP
+#End Doc Library

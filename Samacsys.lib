@@ -534,4 +534,98 @@ X 3 3 0 0 200 R 50 50 0 0 P
 P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
 ENDDRAW
 ENDDEF
+DEF ACPL-W341-000E Q 0 30 Y Y 1 F N
+F0 "Q" 1150 300 50 H V L CNN
+F1 "ACPL-W341-000E" 1150 200 50 H V L CNN
+F2 "Samacsys:SOIC127P1150X331-6N" 1150 100 50 H I L CNN
+F3 "https://docs.broadcom.com/docs/AV02-2929EN" 1150 0 50 H I L CNN
+F4 "Broadcom ACPL-W341-000E AC/DC Input, IGBT Gate Drive Output Optocoupler, Surface Mount, 6-Pin SSOP" 1150 -100 50 H I L CNN "Description"
+F5 "3.307" 1150 -200 50 H I L CNN "Height"
+F6 "630-ACPL-W341-000E" 1150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ACPL-W341-000E?qs=1AIyURgrJA4KxACvQV1frA%3D%3D" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Avago Technologies" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "ACPL-W341-000E" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ANODE 1 0 0 200 R 50 50 0 0 P
+X NC 2 0 -100 200 R 50 50 0 0 N
+X CATHODE 3 0 -200 200 R 50 50 0 0 P
+X VCC 6 1300 0 200 L 50 50 0 0 P
+X VOUT 5 1300 -100 200 L 50 50 0 0 P
+X VEE 4 1300 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+DEF TLP701_TP,F_ IC 0 30 Y Y 1 F N
+F0 "IC" 1250 300 50 H V L CNN
+F1 "TLP701_TP,F_" 1250 200 50 H V L CNN
+F2 "Samacsys:SOIC127P970X425-6N" 1250 100 50 H I L CNN
+F3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=1642&prodName=TLP701" 1250 0 50 H I L CNN
+F4 "TOSHIBA Photocoupler IRED + Photo IC  Logic Output Optocouplers IC Cplr IGBT drive IFLH=5mA" 1250 -100 50 H I L CNN "Description"
+F5 "4.25" 1250 -200 50 H I L CNN "Height"
+F6 "757-TLP701(TP,F)" 1250 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Toshiba/TLP701TPF?qs=f0GatGUIxV1yNz%2FlvR4gyQ%3D%3D" 1250 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Toshiba" 1250 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TLP701(TP,F)" 1250 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ANODE 1 0 0 200 R 50 50 0 0 P
+X NC 2 0 -100 200 R 50 50 0 0 N
+X CATHODE 3 0 -200 200 R 50 50 0 0 P
+X VCC 6 1400 0 200 L 50 50 0 0 P
+X OUTPUT 5 1400 -100 200 L 50 50 0 0 P
+X GND 4 1400 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+DEF LMV611MFX_NOPB IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "LMV611MFX_NOPB" 1050 200 50 H V L CNN
+F2 "Samacsys:SOT95P280X145-5N" 1050 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/lmv611" 1050 0 50 H I L CNN
+F4 "Single low voltage, low power, RRIO general purpose amplifier" 1050 -100 50 H I L CNN "Description"
+F5 "1.45" 1050 -200 50 H I L CNN "Height"
+F6 "926-LMV611MFX/NOPB" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMV611MFX-NOPB?qs=vobMBmnAsJHc3uBY0Yt12w%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LMV611MFX/NOPB" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X +IN 1 0 0 200 R 50 50 0 0 P
+X V- 2 0 -100 200 R 50 50 0 0 P
+X -IN 3 0 -200 200 R 50 50 0 0 P
+X OUTPUT 4 1200 0 200 L 50 50 0 0 P
+X V+ 5 1200 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+DEF LM339LVRTER IC 0 30 Y Y 1 F N
+F0 "IC" 1050 600 50 H V L CNN
+F1 "LM339LVRTER" 1050 500 50 H V L CNN
+F2 "Samacsys:QFN50P300X300X80-17N-D" 1050 400 50 H I L CNN
+F3 "https://www.ti.com/lit/gpn/lm339lv" 1050 300 50 H I L CNN
+F4 "Low-voltage commodity comparator" 1050 200 50 H I L CNN "Description"
+F5 "0.8" 1050 100 50 H I L CNN "Height"
+F6 "595-LM339LVRTER" 1050 0 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM339LVRTER?qs=eP2BKZSCXI5POlqYfwL5jg%3D%3D" 1050 -100 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 1050 -200 50 H I L CNN "Manufacturer_Name"
+F9 "LM339LVRTER" 1050 -300 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X V+ 1 0 0 200 R 50 50 0 0 P
+X IN1- 2 0 -100 200 R 50 50 0 0 P
+X NC_1 3 0 -200 200 R 50 50 0 0 P
+X IN1+ 4 0 -300 200 R 50 50 0 0 P
+X IN2- 5 400 -900 200 U 50 50 0 0 P
+X IN2+ 6 500 -900 200 U 50 50 0 0 P
+X IN3- 7 600 -900 200 U 50 50 0 0 P
+X IN3+ 8 700 -900 200 U 50 50 0 0 P
+X GND 12 1200 0 200 L 50 50 0 0 P
+X IN4+ 11 1200 -100 200 L 50 50 0 0 P
+X NC_2 10 1200 -200 200 L 50 50 0 0 P
+X IN4- 9 1200 -300 200 L 50 50 0 0 P
+X EP 17 400 600 200 D 50 50 0 0 P
+X OUT1 16 500 600 200 D 50 50 0 0 P
+X OUT2 15 600 600 200 D 50 50 0 0 P
+X OUT3 14 700 600 200 D 50 50 0 0 P
+X OUT4 13 800 600 200 D 50 50 0 0 P
+P 5 0 1 6 200 400 1000 400 1000 -700 200 -700 200 400 N
+ENDDRAW
+ENDDEF
 # End Library

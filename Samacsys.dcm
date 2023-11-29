@@ -107,4 +107,28 @@ D M300 - 3mm Pitch - SIL Male Throughboard Connector, with Jackscrews, 3 contact
 K
 F https://cdn.harwin.com/pdfs/M300-MV10345M1.pdf
 $ENDCMP
+#
+$CMP ACPL-W341-000E
+D Broadcom ACPL-W341-000E AC/DC Input, IGBT Gate Drive Output Optocoupler, Surface Mount, 6-Pin SSOP
+K
+F https://docs.broadcom.com/docs/AV02-2929EN
+$ENDCMP
+#
+$CMP TLP701_TP,F_
+D TOSHIBA Photocoupler IRED + Photo IC  Logic Output Optocouplers IC Cplr IGBT drive IFLH=5mA
+K
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=1642&prodName=TLP701
+$ENDCMP
+#
+$CMP LMV611MFX_NOPB
+D Single low voltage, low power, RRIO general purpose amplifier
+K
+F http://www.ti.com/lit/gpn/lmv611
+$ENDCMP
+#
+$CMP LM339LVRTER
+D Low-voltage commodity comparator
+K
+F https://www.ti.com/lit/gpn/lm339lv
+$ENDCMP
 #End Doc Library

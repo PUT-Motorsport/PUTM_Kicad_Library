@@ -131,4 +131,34 @@ D Low-voltage commodity comparator
 K
 F https://www.ti.com/lit/gpn/lm339lv
 $ENDCMP
+#
+$CMP RV1S9231ACCSP-10YV#KC0
+D The RV1S9231A is an optically coupled isolator containing an AlGaAs LED on the input side and a photodiode, a signal processing circuit and power MOSFETs on the output side on one chip. The RV1S9231A is designed specifically for high common mode transient immunity (CMR) and high switching speed. It is suitable for driving IGBTs.
+K
+F https://www.renesas.com/sg/en/document/dst/rv1s9231a-data-sheet?r=1503276
+$ENDCMP
+#
+$CMP SN74LVC2G53DCUR
+D Single Pole, Double-Throw (SPDT) Analog Switch or 2:1 Analog Multiplexer/Demultiplexer
+K
+F http://www.ti.com/lit/gpn/sn74lvc2g53
+$ENDCMP
+#
+$CMP SRR0604-680KL
+D Bourns SRR0604 Series Type E6 Shielded Wire-wound SMD Inductor with a Ferrite DR & RI Core, 68 H Wire-Wound 680mA Idc
+K
+F https://componentsearchengine.com/Datasheets/1/SRR0604-680KL.pdf
+$ENDCMP
+#
+$CMP TPS54202HDDCR
+D 4.5V to 28V Input, 2A Output, Synchronous Step-Down Voltage Converter
+K
+F http://www.ti.com/lit/gpn/tps54202h
+$ENDCMP
+#
+$CMP TLV75201PDSQT
+D 1-A, low-IQ, high-PSRR, adjustable, dual-channel low-dropout (LDO) voltage regulator
+K
+F https://www.ti.com/lit/gpn/TLV752
+$ENDCMP
 #End Doc Library

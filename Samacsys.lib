@@ -738,4 +738,71 @@ X IN2 6 1200 -400 200 L 50 50 0 0 I
 P 5 0 1 6 200 100 1000 100 1000 -800 200 -800 200 100 N
 ENDDRAW
 ENDDEF
+DEF RB751V-40X_R1_00001 D 0 30 Y Y 1 F N
+F0 "D" 500 350 50 H V L CNN
+F1 "RB751V-40X_R1_00001" 500 250 50 H V L CNN
+F2 "Samacsys:SODFL2512X90N" 500 150 50 H I L CNN
+F3 "https://www.panjit.com.tw/upload/datasheet/RB751V-40X.pdf" 500 50 50 H I L CNN
+F4 "Schottky Diodes & Rectifiers /X60/TR/7\"/HF/5K/SOD-323/SKY/SOD/SSM-02A/SSM02-QIE7/PJ///" 500 -50 50 H I L CNN "Description"
+F5 "0.9" 500 -150 50 H I L CNN "Height"
+F6 "241-RB751V40XR100001" 500 -250 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Panjit/RB751V-40X_R1_00001?qs=sPbYRqrBIVmkThaVPq8RhA%3D%3D" 500 -350 50 H I L CNN "Mouser Price/Stock"
+F8 "PANJIT" 500 -450 50 H I L CNN "Manufacturer_Name"
+F9 "RB751V-40X_R1_00001" 500 -550 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 100 0 100 R 50 50 0 0 P
+X ~ 2 700 0 100 L 50 50 0 0 P
+P 2 0 1 6 300 100 300 -100 N
+P 3 0 1 6 300 100 340 100 340 60 N
+P 3 0 1 6 300 -100 260 -100 260 -60 N
+P 2 0 1 6 200 0 300 0 N
+P 2 0 1 6 500 0 600 0 N
+P 4 0 1 10 300 0 500 100 500 -100 300 0 F
+ENDDRAW
+ENDDEF
+DEF M80-5101022 J 0 30 Y Y 1 F N
+F0 "J" 750 300 50 H V L CNN
+F1 "M80-5101022" 750 200 50 H V L CNN
+F2 "Samacsys:M80-51010YY" 750 100 50 H I L CNN
+F3 "https://cdn.harwin.com/pdfs/M80-510.pdf" 750 0 50 H I L CNN
+F4 "Datamate J-Tek DIL Male Vertical 3mm Throughboard Connector, selective gold + tin/lead, with jackscrews + board mount, 5+5 contacts" 750 -100 50 H I L CNN "Description"
+F5 "" 750 -200 50 H I L CNN "Height"
+F6 "855-M80-5101022" 750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Harwin/M80-5101022?qs=VqTjCVgqzECW6CZeeqQ82g%3D%3D" 750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Harwin" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "M80-5101022" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+X 5 5 0 -400 200 R 50 50 0 0 P
+X 6 6 900 0 200 L 50 50 0 0 P
+X 7 7 900 -100 200 L 50 50 0 0 P
+X 8 8 900 -200 200 L 50 50 0 0 P
+X 9 9 900 -300 200 L 50 50 0 0 P
+X 10 10 900 -400 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+DEF LQH3NPZ680MMEL L 0 30 Y Y 1 F N
+F0 "L" 650 250 50 H V L CNN
+F1 "LQH3NPZ680MMEL" 650 150 50 H V L CNN
+F2 "Samacsys:LQH3NPN100MMEL" 650 50 50 H I L CNN
+F3 "https://psearch.en.murata.com/inductor/product/LQH3NPZ680MME%23.html" 650 -50 50 H I L CNN
+F4 "LQH3NPZ_ME Series Inductor 68uH +/-20% 1212 (3030)" 650 -150 50 H I L CNN "Description"
+F5 "1.5" 650 -250 50 H I L CNN "Height"
+F6 "81-LQH3NPZ680MMEL" 650 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/LQH3NPZ680MMEL?qs=d0WKAl%252BL4KZmq4JOnggsSg%3D%3D" 650 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Murata Electronics" 650 -550 50 H I L CNN "Manufacturer_Name"
+F9 "LQH3NPZ680MMEL" 650 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 800 0 200 L 50 50 0 0 P
+A 250 -2 50 1777 -23 0 1 6 N 300 0 200 0
+A 350 -2 50 1777 -23 0 1 6 N 400 0 300 0
+A 450 -2 50 1777 -23 0 1 6 N 500 0 400 0
+A 550 -2 50 1777 -23 0 1 6 N 600 0 500 0
+ENDDRAW
+ENDDEF
 # End Library

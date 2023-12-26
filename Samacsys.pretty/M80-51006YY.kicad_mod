@@ -47,8 +47,8 @@
   (pad "4" thru_hole circle (at 0 -2) (size 1.2 1.2) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 874e9b97-076c-4de4-a6eb-0f8746b49cda))
   (pad "5" thru_hole circle (at 2 -2) (size 1.2 1.2) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp ec82e032-dd46-46e6-a75f-2647997183b9))
   (pad "6" thru_hole circle (at 4 -2) (size 1.2 1.2) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 1a010139-8d07-4d3a-8512-2ee351ba0529))
-  (model "${KIPRJMOD}/footprint/Samacsys.3dshapes/M80-5100622.stp"
-    (offset (xyz 2 1 2))
+  (model "${KIPRJMOD}/PUTM_Kicad_Library/Samacsys.3dshapes/M80-5100622.stp"
+    (offset (xyz 2 0 2.25))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )

@@ -1,2 +1,8 @@
 EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HCT2G17GV,125
+D 74HC(T)2G17 - Dual non-inverting Schmitt-trigger@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT2G17.pdf
+$ENDCMP
 #End Doc Library

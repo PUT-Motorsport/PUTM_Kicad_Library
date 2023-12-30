@@ -197,4 +197,10 @@ D PCB Mount Receptacle, Right Angle, Wire-to-Board, 6 Position, 2.54 mm [.1 in] 
 K
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7FD611671-ENV%7FAC%7Fpdf%7FEnglish%7FENG_CD_D611671-ENV_AC.pdf%7FYD369-G66-NP400000
 $ENDCMP
+#
+$CMP D369-G33-BP4
+D Rectangular Mil Spec Connectors 369 Inline PCB RCPT 3-Way, B-Key, Pin
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7FD611671-ENV%7FAC%7Fpdf%7FEnglish%7FENG_CD_D611671-ENV_AC.pdf%7FYD369-G33-BP400000
+$ENDCMP
 #End Doc Library

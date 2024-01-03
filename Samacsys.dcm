@@ -203,4 +203,10 @@ D Rectangular Mil Spec Connectors 369 Inline PCB RCPT 3-Way, B-Key, Pin
 K
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7FD611671-ENV%7FAC%7Fpdf%7FEnglish%7FENG_CD_D611671-ENV_AC.pdf%7FYD369-G33-BP400000
 $ENDCMP
+#
+$CMP SN74LVC1G07DCKRE4
+D Buffers & Line Drivers Single w/ OD
+K
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g07.pdf
+$ENDCMP
 #End Doc Library

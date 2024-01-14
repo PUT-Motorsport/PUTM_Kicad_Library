@@ -209,4 +209,10 @@ D 100-mA, 30-V wide-VIN, fixed-output linear voltage regulator
 K
 F http://www.ti.com/lit/gpn/tlv760
 $ENDCMP
+#
+$CMP SN74LVC1G07DCKRE4
+D Buffers & Line Drivers Single w/ OD
+K
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g07.pdf
+$ENDCMP
 #End Doc Library

@@ -203,4 +203,52 @@ D Rectangular Mil Spec Connectors 369 Inline PCB RCPT 3-Way, B-Key, Pin
 K
 F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7FD611671-ENV%7FAC%7Fpdf%7FEnglish%7FENG_CD_D611671-ENV_AC.pdf%7FYD369-G33-BP400000
 $ENDCMP
+#
+$CMP TLV76050DBZR
+D 100-mA, 30-V wide-VIN, fixed-output linear voltage regulator
+K
+F http://www.ti.com/lit/gpn/tlv760
+$ENDCMP
+#
+$CMP SN74LVC1G07DCKRE4
+D Buffers & Line Drivers Single w/ OD
+K
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g07.pdf
+$ENDCMP
+#
+$CMP AL8862QFGEAW-7
+D LED Lighting Drivers LED MV Int Switch W-DFN3030-8 T&R 1.5K
+K
+F https://www.diodes.com/assets/Datasheets/AL8862Q.pdf
+$ENDCMP
+#
+$CMP VLS6045EX-680M
+D Wirewound Inductor 68uH 1A 310 mOhm SMD TDK VLS-EX Series Shielded Wire-wound SMD Inductor with a Ferrite Core, 68 uH +/-20% Wire-Wound 1A Idc
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_power_vls6045ex_en.pdf
+$ENDCMP
+#
+$CMP PMEG3015EJ,115
+D Nexperia PMEG3015EJ,115 SMT Schottky Diode, 30V 1.5A, 2-Pin SOD-323F
+K
+F https://assets.nexperia.com/documents/data-sheet/PMEG3015EH_EJ.pdf
+$ENDCMP
+#
+$CMP 74AHCT02BQ,115
+D 74AHC(T)02 - Quad 2-input NOR gate@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT02.pdf
+$ENDCMP
+#
+$CMP TPS70950DRVT
+D 150-mA 30-V ultra-low-Iq wide-input low-dropout (LDO) regulator with reverse current protection
+K
+F http://www.ti.com/lit/gpn/TPS709
+$ENDCMP
+#
+$CMP 74HCT00BQ,115
+D 74HC(T)00 - Quad 2-input NAND gate@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT00.pdf
+$ENDCMP
 #End Doc Library

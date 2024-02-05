@@ -5,4 +5,10 @@ D 74HC(T)2G17 - Dual non-inverting Schmitt-trigger@en-us
 K
 F https://assets.nexperia.com/documents/data-sheet/74HC_HCT2G17.pdf
 $ENDCMP
+#
+$CMP SRN3015BTA-470M
+D Ind,3x3x1.3mm,47uH+/-20%,0.7A,shd
+K
+F https://www.bourns.com/docs/Product-Datasheets/SRN3015BTA.pdf
+$ENDCMP
 #End Doc Library

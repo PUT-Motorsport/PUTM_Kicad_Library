@@ -11,4 +11,10 @@ D Ind,3x3x1.3mm,47uH+/-20%,0.7A,shd
 K
 F https://www.bourns.com/docs/Product-Datasheets/SRN3015BTA.pdf
 $ENDCMP
+#
+$CMP 74402800015
+D Wurth WE-TPC Series Shielded Wire-wound SMD Inductor with a Ferrite Core, 0.15 uH +/-35% 3A Idc
+K
+F 
+$ENDCMP
 #End Doc Library
